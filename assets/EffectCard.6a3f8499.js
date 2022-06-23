@@ -1,0 +1,1 @@
+import{_ as o}from"./index.22c8b22d.js";import{o as r,h as t,i as s,z as n}from"./vendor.778d6519.js";const a={},c={class:n("transition ease-in-out duration-100 min-w-[200px] w-full mt-4 h-72 overflow-auto rounded text-center bg-sky-800")};function d(e,i){return r(),t("div",c,[s(e.$slots,"default")])}var _=o(a,[["render",d]]);export{_ as E};
